@@ -3,5 +3,6 @@
 echo "hello world";
 
 ds;
-sd
+sd;
+sk;
 ?>
